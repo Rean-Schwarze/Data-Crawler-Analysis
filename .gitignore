@@ -1,0 +1,61 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+/target/
+/.idea/
+/.settings/
+/.vscode/
+/bin/
+/backup/
+/dist/
+/data/
+/work_file/
+.classpath
+.project
+.settings
+##class file##
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# compression file
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.via
+*.tmp
+*.err
+*.log
+*.iml
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# my ingore
+*.xmind
+*.pptx
+*.doc
+*.docx
+*.txt
+*.psd
+*.gif
+*.mp4
