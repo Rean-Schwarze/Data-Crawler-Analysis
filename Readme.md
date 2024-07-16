@@ -2,6 +2,10 @@
 
 完成于2023/11/14，不要问我为什么现在才传（
 
+这里也记录一下嘿嘿
+
+![image-20240716121211742](https://rean-blog-bucket.oss-cn-guangzhou.aliyuncs.com/assets/img/image-20240716121211742.png)
+
 与`dj`合作完成
 
 # 新闻爬虫
